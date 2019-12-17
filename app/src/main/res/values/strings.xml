@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SafeTravel</string>
+    <string name="title_activity_driver_map">Map</string>
+    <string name="title_activity_customer_maps">Map</string>
+    <string name="notification">Location tracking is enabled.You can cancel</string>
+    <string name="firebase_path">location</string>
+</resources>

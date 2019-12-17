@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "812419672577",
+    "firebase_url": "https://safetravel-7c14e.firebaseio.com",
+    "project_id": "safetravel-7c14e",
+    "storage_bucket": "safetravel-7c14e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812419672577:android:28a77d37cdc9eb60",
+        "android_client_info": {
+          "package_name": "com.example.dcl.safetravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812419672577-9fmccg1d0531h01s1heqnotbp3qufviu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dcl.safetravel",
+            "certificate_hash": "f41eac37ea6711630449387962648329d4029463"
+          }
+        },
+        {
+          "client_id": "812419672577-ig0k2jl0b7kpr994i9p9ccl9ooq8v52g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL4z8S0NUjQo4GqRpphC_N3gzBSNr9XM8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812419672577-ig0k2jl0b7kpr994i9p9ccl9ooq8v52g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
